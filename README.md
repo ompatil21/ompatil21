@@ -1,4 +1,8 @@
-<h2 align="left">Hi there! 👋 I'm Om Patil<br>🎓 Master of IT (Mobile & Cloud Computing) @ Swinburne University<br>💻 Full Stack Developer | React ⚛️ • Node.js 🟩 • Python 🐍 • TypeScript 🧠<br>🚀 Passionate about building scalable apps, clean code & great UX<br>🔐 Interests: AI 🤖 • Cloud ☁️ • Cybersecurity 🛡️</h2>
+<h2 align="left">I'm a Full Stack Developer currently pursuing a Master of IT (Mobile & Cloud Computing) at Swinburne University of Technology. I specialize in building robust, scalable web and mobile applications using modern technologies like React, Node.js, TypeScript, and Python.
+
+With hands-on industry experience and a strong academic foundation, I’ve led projects in machine learning, cloud-native development, and cross-platform mobile apps. My work reflects a strong focus on performance, security, and user-centric design.
+
+Currently exploring real-world applications of AI, cloud automation, and intelligent analytics to build impactful digital solutions.</h2>
 
 ---
 
