@@ -1,4 +1,4 @@
-<h2 align="left">I'm a Full Stack Developer currently pursuing a Master of IT (Mobile & Cloud Computing) at Swinburne University of Technology. I specialize in building robust, scalable web and mobile applications using modern technologies like React, Node.js, TypeScript, and Python.
+<h2 align="left">I'm a Full Stack Developer currently pursuing a Master of IT (Mobile & Cloud Computing) at Swinburne University of Technology. I specialize in building robust, scalable web and mobile applications using modern technologies like React/NextJS,ReactNative,Node.js,Flask TypeScript, and Python.
 
 With hands-on industry experience and a strong academic foundation, I’ve led projects in machine learning, cloud-native development, and cross-platform mobile apps. My work reflects a strong focus on performance, security, and user-centric design.
 
