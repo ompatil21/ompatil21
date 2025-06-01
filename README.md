@@ -31,7 +31,7 @@ ML-powered detection of phishing, malware, and defacement URLs. Achieved 94% acc
 #### 🚗 [Carpark Management System](https://github.com/ompatil21/Carpark-Management)  
 Java-based GUI desktop application to manage vehicle entry, exit, and billing. Developed using Java Swing and AWT components.
 
-#### 🏠 [Investment Property Calculator](https://github.com/ompatil21/investment-property-calculator)  
+#### 🏠 [Investment Property Calculator](https://github.com/ompatil21/propcalc)  
 A full-stack tool to evaluate property investments. Built with Next.js, Flask, and MongoDB to analyze cost, revenue, and ROI.
 
 
