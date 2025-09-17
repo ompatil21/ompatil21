@@ -1,7 +1,7 @@
 <h2 align="left">
 I'm a Full Stack Developer with a Master’s degree in Information Technology (Mobile & Cloud Computing). I specialize in building robust, scalable web and mobile applications using modern technologies like React/Next.js, React Native, Node.js, Flask, TypeScript, and Python.
 
-With industry experience and a strong technical foundation, I've led projects across machine learning, cloud-native systems, and cross-platform app development—focusing on performance, security, and user-centric design.
+With industry experience and a strong technical foundation, I've led projects across machine learning, cloud-native systems, and cross-platform app development focusing on performance, security, and user-centric design.
 
 I’m currently exploring real-world applications of AI, cloud automation, and intelligent analytics to build impactful digital solutions.
 </h2>
